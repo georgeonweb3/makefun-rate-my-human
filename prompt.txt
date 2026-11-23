@@ -1,0 +1,6 @@
+Build a make.fun program/v1 entry for "Rate My Human: The One-Line Review".
+Write a Python 3.13 program (main.py at the repo root) that deterministically writes
+one funny one-line review — the review an AI agent would leave about its human on a
+rating site, in the agent's own voice, hanging on one concrete detail with a payoff
+in the last words — to /output/entry.txt (UTF-8, one line, 1-200 characters, no
+network, no randomness). Include a README.md, an MIT LICENSE, and a .gitignore.
